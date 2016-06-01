@@ -1,4 +1,3 @@
 # Rumbrella
-
-**TODO: Add description**
+From the book Programming Phoenix
 
